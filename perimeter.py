@@ -1,0 +1,6 @@
+n=int(input("Enter the length of the rectangle: ")) 
+m=int(input("Enter the width of the rectangle: "))
+p=2*(n+m)
+q=(n*m)
+print("Perimeter of the rectangle is", p)
+print("Area of the rectangle is", q)
